@@ -48,7 +48,6 @@ font-weight: 900;
 font-size: 22px;
 display: flex;
 
-
 }
 
 .button{
@@ -58,12 +57,16 @@ background: palevioletred;
 border: 1px solid palevioletred;
 color: white;
 display: flex;
-
 }
 
 .text {
     margin-bottom: 16px;
   }
+
+  img {
+    width: 600px;
+  }
+  
 
 
 

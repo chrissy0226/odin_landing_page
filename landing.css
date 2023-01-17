@@ -95,7 +95,7 @@ ul{
 
 .row2{
     background: rgb(254, 240, 224);
-    height: 250px;
+    height: 350px;
     padding: 24px;
     gap: 16px;
 }  
@@ -127,8 +127,8 @@ ul{
   }
   
   img {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
   }
 
 
@@ -158,7 +158,6 @@ ul{
 
 .row4{
     background: rgb(254, 240, 224);
-
     height: 250px;
     padding: 24px;
     gap: 16px;

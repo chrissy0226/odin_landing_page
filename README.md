@@ -1,1 +1,2 @@
 Odin landing page project
+My landing page consists of different types of nail art designs with a brief overview of each type. During the completion of this project, I learned a better understanding of flexbox and containers. Intially, I struggled with the concept of containers, but after looking back at the lessons and trying out different methods my understanding of how flexbox and containers work improved. I will need to practice more and try different methods but this was a great starting point to improve my knowledge.
